@@ -1,0 +1,12 @@
+.body {
+  background-color: black;
+}
+
+
+.text {
+  font-size: medium;
+  color: white;
+  background: url(../post_3/img/grc.png);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
